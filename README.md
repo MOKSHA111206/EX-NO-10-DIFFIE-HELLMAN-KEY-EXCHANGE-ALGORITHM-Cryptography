@@ -1,4 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
@@ -59,6 +61,7 @@ int main() {
 
 
 ## Output:
+<img width="801" height="525" alt="image" src="https://github.com/user-attachments/assets/e5ff14f9-8949-449e-921f-ace0126b49d3" />
 
 
 ## Result:
